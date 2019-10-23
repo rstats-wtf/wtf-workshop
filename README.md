@@ -1,4 +1,4 @@
-# wtf-assets
+# wtf-workshop
 
 <!-- badges: start -->
 <!-- badges: end -->
