@@ -20,8 +20,11 @@ Main types of content and where we store it:
     specifics about schedule, venue, WiFi, personnel. Contains links to
     everything else. Holds PDFs of slides. Examples:
     - rstudio::conf 2020 <https://github.com/rstudio-conf-2020/what-they-forgot>
-    - rstudio::conf 2019 <https://github.com/rstats-wtf/wtf-2019-rsc>
-    - Seattle October 2018 <https://github.com/rstats-wtf/wtf-2018-seattle>
+      *WIP, for obvious reasons*
+    - rstudio::conf 2019 <https://github.com/rstats-wtf/wtf-2019-rsc>,
+      uses GitHub Pages and a shortlink [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
+    - Seattle October 2018 <https://github.com/rstats-wtf/wtf-2018-seattle>,
+      uses a shortlink [rstd.io/wtf-seattle](https://rstd.io/wtf-seattle)
   * Individual activities used during the workshop. Typically downloaded by
     students using `usethis::use_course("rstats-wtf/REPO_NAME")` or
     `usethis::create_from_github("rstats-wtf/REPO_NAME")`. Examples:
