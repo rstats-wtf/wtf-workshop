@@ -12,7 +12,7 @@ Do what's listed here: https://happygitwithr.com/workshops.html#pre-workshop-set
 
 This is the thread to use if you need some help.
 
-If you wonder why I've chosen to include Git/GitHub in this workshop, you might want to read [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/).
+If you wonder why we've chosen to include Git/GitHub in this workshop, you might want to read [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/).
 
 Go forth and install Git! :boom:
 
