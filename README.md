@@ -19,8 +19,8 @@ Main types of content and where we store it:
     workshop. Might use GitHub Pages, might have an rstd.io shortlink. Has
     specifics about schedule, venue, WiFi, personnel. Contains links to
     everything else. Holds PDFs of slides. Examples:
-    - rstudio::conf 2020 <https://github.com/rstudio-conf-2020/what-they-forgot>
-      *WIP, for obvious reasons*
+    - rstudio::conf 2020 <https://github.com/rstats-wtf/wtf-2020-rsc>,
+      uses GitHub Pages and a shortlink [rstd.io/wtf-2020-rsc](https://rstd.io/wtf-2020-rsc)
     - rstudio::conf 2019 <https://github.com/rstats-wtf/wtf-2019-rsc>,
       uses GitHub Pages and a shortlink [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
     - Seattle October 2018 <https://github.com/rstats-wtf/wtf-2018-seattle>,
