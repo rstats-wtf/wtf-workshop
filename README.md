@@ -34,8 +34,8 @@ Main types of content and where we store it:
       
       Example of the conf-owned type of repo the coordinators want us to use:
       <https://github.com/rstudio-conf-2022/wtf-rstats>
-    - rstudio::conf 2020 <https://github.com/rstudio-conf-2020/what-they-forgot>
-      uses GitHub Pages and a shortlink [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
+    - rstudio::conf 2020 <https://github.com/rstats-wtf/wtf-2020-rsc>,
+      uses GitHub Pages and a shortlink [rstd.io/wtf-2020-rsc](https://rstd.io/wtf-2020-rsc)
       
       Note in the README: This repo previously belonged to the GitHub
       organization <https://github.com/rstudio-conf-2020>, under the name
