@@ -18,9 +18,30 @@ Main types of content and where we store it:
     One True Location" the students need to bookmark and consult during the
     workshop. Might use GitHub Pages, might have an rstd.io shortlink. Has
     specifics about schedule, venue, WiFi, personnel. Contains links to
-    everything else. Holds PDFs of slides. Examples:
-    - rstudio::conf 2020 <https://github.com/rstats-wtf/wtf-2020-rsc>,
-      uses GitHub Pages and a shortlink [rstd.io/wtf-2020-rsc](https://rstd.io/wtf-2020-rsc)
+    everything else. Holds PDFs of slides. 
+    
+    The conf workshop coordinators often like to have one central organisation
+    for these repos. I do not like this because I don't want the content for
+    individual instances of WTF to spread out over various GitHub orgs which I
+    do not have admin privileges on.
+    
+    Compromise: we comply with whatever the coordinators ask us to do. But we
+    also always make sure that the the definitive copy of the materials is here
+    in the rstats-wtf org, at least in the long run.
+
+    - rstudio::conf 2022 <https://github.com/rstats-wtf/wtf-2022-rsc>
+      *WIP, for obvious reasons*
+      
+      Example of the conf-owned type of repo the coordinators want us to use:
+      <https://github.com/rstudio-conf-2022/wtf-rstats>
+    - rstudio::conf 2020 <https://github.com/rstudio-conf-2020/what-they-forgot>
+      uses GitHub Pages and a shortlink [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
+      
+      Note in the README: This repo previously belonged to the GitHub
+      organization <https://github.com/rstudio-conf-2020>, under the name
+      `what-they-forgot`. It was renamed and transferred here, as preparations
+      for rstudio::conf(2022) started. It is useful to us to keep all of our
+      resources within one persistent organization.
     - rstudio::conf 2019 <https://github.com/rstats-wtf/wtf-2019-rsc>,
       uses GitHub Pages and a shortlink [rstd.io/wtf-2019-rsc](https://rstd.io/wtf-2019-rsc)
     - Seattle October 2018 <https://github.com/rstats-wtf/wtf-2018-seattle>,
@@ -52,3 +73,8 @@ High-level guidance re: where to store a logical blob of content. When in doubt 
       folder (such as on Google Drive or DropBox), because there are
       performance and privacy issues re: syncing of `.git/`, `.Rproj.user/`,
       `.Rhistory`, etc.
+
+### Notes
+
+There used to be a `git-diagrams` folder here, but I've removed it because it was confusing.
+The most current Git images used in WTF slides about Git/GitHub are maintained within the Happy Git space.
