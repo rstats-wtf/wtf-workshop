@@ -57,8 +57,9 @@ Main types of content and where we store it:
     - <https://github.com/rstats-wtf/wtf-live-intermediate-git-demo> *Jenny: I
       think I took a completed instance of `packages-report`, then used it as
       the Git repo to demo the intermediate/advanced Git workflows.*
-  * Keynote slides. Stored in a shared instructors-only folder. We're currently
-    testing a workflow using Google Drive. One subfolder for each "run" of WTF.
+  * Keynote slides. Stored in a shared instructors-only folder on Google Drive,
+    owned by Jenny. One subfolder for each "run" of WTF (or for any event where
+    some portion of the materials are presented).
   * Reusable assets that don't change too rapidly belong here in this repo, even
     if the file format isn't terribly Git friendly. Examples: logos, icons,
     diagrams, ?Keynote templates?.
