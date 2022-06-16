@@ -1,0 +1,48 @@
+Rough script of what Jenny said in a short video made by marketing to describe the WTF workshop in 2022
+
+Reason #1
+
+Workshops provide something that polished talks and written documentation cannot:
+
+watching someone else work!
+
+Instructors will be live coding and you'll get to look over their shoulder to see their daily process for getting stuff done.
+
+Whether we like it or not, we will inevitably make mistakes or encounter unexpected glitches, so you also get to see how we troubleshoot and recover from error.
+
+That can be very stressful if you're attempting to do a software demo in a 20-minute talk.
+
+But, in a two-day, hands-on workshop, it's completely normal and expected, so instructors can afford to make themselves a bit more vulnerable and show you how they really work!
+
+
+Reason #2
+
+The missing curriculum
+
+Most R users came to R because they needed to analyze data, not because they were desperate to become programmers.
+
+As a result, lots of us don't have a ton of formal training in computer science or software development and we're self-taught.
+
+And it's easy to develop weird little quirks or to fail to take advantage of known tricks of the trade.
+
+I'm talking about all the meta stuff, like how to organize your work, how to use Git/GitHub for collaboration, how to debug, how to take care of your R installation.
+
+This never comes up in the documentation for an R function.
+
+This workshop gives you two-days to zoom out and get some ideas on how to redesign parts of your R workflow to make yourself more effective and happy.
+
+
+Reason #3
+
+The varied and complementary expertise of the instructors
+
+I used to be a professor and lead analyst on large genomic studies, but I've been a software engineer at RStudio, on the tidyverse team, for several years.
+Now I'm more of a tool builder.
+
+Lead instructor is Shannon Pileggi, an experienced and practicing data scientist at Memorial Sloan Kettering Cancer Center.
+She also has experience as a professor and regularly gives workshops through groups like R-Ladies, so she's an experienced instructor.
+
+David Aja is a solutions engineer at RStudio (and was a practicing data scientist in the past).
+Solutions engineers are the experts at getting R and RStudio's project working well inside various existing IT ecosystems.
+So he is going to teach about personal system admiministration, including (but not only) how to manage your R installation.
+I find that a lot of self-taught analysts tend aren't super comfortable installing and upgrading software, yet it's part of our job, so you might as well get better at it.
