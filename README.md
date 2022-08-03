@@ -82,7 +82,6 @@ The most current Git images used in WTF slides about Git/GitHub are maintained w
 
 ### Additional assets
 
-* keynote slides for git/github section are on Jenny's [google drive](https://drive.google.com/drive/u/0/folders/1Qht4U8lIPoQMkNLoyQy-gMidvICsesQq)
 
 * intro / outro decks for 2022 rstudio conf are on Shannon's google slides [opening](https://docs.google.com/presentation/d/1JNWIDMG7G8inZQ66uXOaUAEBoENgF0MTwEHdRDSpn6M/edit?usp=sharing), [closing](https://docs.google.com/presentation/d/1NojVP3lZk84WYA0ZemDWjFHxwL3mKL-xrY6f9RWzNJI/edit?usp=sharing)
 
