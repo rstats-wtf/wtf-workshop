@@ -10,18 +10,7 @@ editor_options:
 
 <!-- badges: end -->
 
-# 2022 RStudio Conference Overivew
-
-| Content                   | Slides                                                                                                                | Exercises                                                                                                                                                                                                                   |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Intro slides              | [drive assests](https://drive.google.com/drive/u/0/folders/12shxFDi5SPjwS6vc8UVIJRJZOQoeViV9) (google slides)        | In slides (place emoji on issue to ensure logged in)                                                                                                                                                                        |
-| Project oriented workflow | [wtf-project-oriented-workflow-slides](https://github.com/rstats-wtf/wtf-project-oriented-workflow-slides) (quarto) | [wtf-explore-libraries](https://github.com/rstats-wtf/wtf-explore-libraries), [wtf-fix-paths](https://github.com/rstats-wtf/wtf-fix-paths), [wtf-packages-report](https://github.com/rstats-wtf/wtf-packages-report) |
-| Debugging                 | [wtf-debugging-slides](https://github.com/rstats-wtf/wtf-debugging-slides) (quarto)                                 | [wtf-debugging](https://github.com/rstats-wtf/wtf-debugging), associated pkg [wtfdbg](https://github.com/rstats-wtf/wtfdbg)                                                                                             |
-| Git/GitHub                | [drive assests](https://drive.google.com/drive/u/0/folders/12shxFDi5SPjwS6vc8UVIJRJZOQoeViV9) (keynote)              | In slides                                                                                                                                                                                                                   |
-| Personal R Administration | [wtf-personal-radmin-slides](https://github.com/rstats-wtf/wtf-personal-radmin-slides) (quarto)                     | In slides                                                                                                                                                                                                                   |
-| Iterating well with purrr | [wtf-purrr-slides](https://github.com/rstats-wtf/wtf-purrr-slides) (quarto)                                         | In slides                                                                                                                                                                                                                   |
-| Closing slides            | [drive assests](https://drive.google.com/drive/u/0/folders/12shxFDi5SPjwS6vc8UVIJRJZOQoeViV9) (google slides)         | None                                                                                                                                                                                                                        |
-# Notes
+                                                                                                                                                                      |
 
 This repo has two purposes:
 
@@ -121,9 +110,17 @@ There used to be a `git-diagrams` folder here, but I've removed it
 because it was confusing. The most current Git images used in WTF slides
 about Git/GitHub are maintained within the Happy Git space.
 
-### Additional assets
+# 2022 RStudio Conference
 
--   intro / outro decks for 2022 rstudio conf are on Shannon's google
-    slides
-    [opening](https://docs.google.com/presentation/d/1JNWIDMG7G8inZQ66uXOaUAEBoENgF0MTwEHdRDSpn6M/edit?usp=sharing),
-    [closing](https://docs.google.com/presentation/d/1NojVP3lZk84WYA0ZemDWjFHxwL3mKL-xrY6f9RWzNJI/edit?usp=sharing)
+
+| Content                   | Slide type    | Slide source                                                                                               | Exercises                                                                                                                                                                                                            |
+|---------------|---------------|---------------|----------------------------|
+| Intro slides              | google slides | [drive assests](https://drive.google.com/drive/u/0/folders/12shxFDi5SPjwS6vc8UVIJRJZOQoeViV9)              | In slides (place emoji on issue to ensure logged in)                                                                                                                                                                 |
+| Project oriented workflow | quarto        | [wtf-project-oriented-workflow-slides](https://github.com/rstats-wtf/wtf-project-oriented-workflow-slides) | [wtf-explore-libraries](https://github.com/rstats-wtf/wtf-explore-libraries), [wtf-fix-paths](https://github.com/rstats-wtf/wtf-fix-paths), [wtf-packages-report](https://github.com/rstats-wtf/wtf-packages-report) |
+| Debugging                 | quarto        | [wtf-debugging-slides](https://github.com/rstats-wtf/wtf-debugging-slides)                                 | [wtf-debugging](https://github.com/rstats-wtf/wtf-debugging), associated pkg [wtfdbg](https://github.com/rstats-wtf/wtfdbg)                                                                                          |
+| Git/GitHub                | keynote       | [drive assests](https://drive.google.com/drive/u/0/folders/12shxFDi5SPjwS6vc8UVIJRJZOQoeViV9)              | In slides                                                                                                                                                                                                            |
+| Personal R Administration | quarto        | [wtf-personal-radmin-slides](https://github.com/rstats-wtf/wtf-personal-radmin-slides)                     | In slides                                                                                                                                                                                                            |
+| Iterating well with purrr | quarto        | [wtf-purrr-slides](https://github.com/rstats-wtf/wtf-purrr-slides)                                         | In slides                                                                                                                                                                                                            |
+| Closing slides            | google slides | [drive assests](https://drive.google.com/drive/u/0/folders/12shxFDi5SPjwS6vc8UVIJRJZOQoeViV9)              | None                                                                                                                                                                                                                 |
+- drive assets are private, ask Jenny for access to materials
+- keynote and google slide rendered pdfs are available in workshop repos `/materials`
