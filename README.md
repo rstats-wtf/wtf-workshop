@@ -76,6 +76,14 @@ When in doubt ...
 There used to be a `git-diagrams` folder here, but I've removed it because it was confusing.
 The most current Git images used in WTF slides about Git/GitHub are maintained within the Happy Git space.
 
+# 2023 Posit Conference
+
+| Content                   | Slide type    | Slide source                                                                                               | Exercises                                                                                                                                                                                                            |
+|---------------|---------------|---------------|----------------------------|
+| Intro slides              | quarto | [wtf-introduction](https://github.com/rstats-wtf/wtf-introduction)              | In slides (place emoji on issue to ensure logged in)                                                                                                                                                                 |
+| Project oriented workflow | quarto        | [wtf-project-oriented-workflow-slides](https://github.com/rstats-wtf/wtf-project-oriented-workflow-slides) | [wtf-explore-libraries](https://github.com/rstats-wtf/wtf-explore-libraries), [wtf-fix-paths](https://github.com/rstats-wtf/wtf-fix-paths), [wtf-packages-report](https://github.com/rstats-wtf/wtf-packages-report) |
+| Git/GitHub                | quarto       | [wtf-version-control-slides]([https://drive.google.com/drive/u/0/folders/12shxFDi5SPjwS6vc8UVIJRJZOQoeViV9](https://github.com/rstats-wtf/wtf-version-control-slides))              | In slides                                                                                                                                                                                                            |
+
 # 2022 RStudio Conference
 
 | Content                   | Slide type    | Slide source                                                                                               | Exercises                                                                                                                                                                                                            |
