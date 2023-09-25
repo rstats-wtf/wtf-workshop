@@ -22,6 +22,10 @@ Main types of content and where we store it:
     Compromise: we comply with whatever the coordinators ask us to do.
     But we also always make sure that the the definitive copy of the materials is here in the rstats-wtf org, at least in the long run.
 
+    -   posit::conf 2023 <https://github.com/posit-conf-2023/wtf>
+    
+        Used readme to point to links for materials hosted in the `rstats-wtf` org.
+    
     -   rstudio::conf 2022 <https://github.com/rstats-wtf/wtf-2022-rsc>
 
         Example of the conf-owned type of repo the coordinators want us to use: <https://github.com/rstudio-conf-2022/wtf-rstats>
